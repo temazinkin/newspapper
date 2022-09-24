@@ -1,5 +1,5 @@
 {
-  "name": "QuickStartHTML",
+  "name": "newspapper",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -17,9 +17,6 @@
     "onchange": "^7.1.0"
   },
   "dependencies": {
-    "superkube": "^2.6.1"
-  },
-  "dependencies4Bootstrap": {
     "bootstrap": "^5.1.3"
   }
 }
